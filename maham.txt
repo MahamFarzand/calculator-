@@ -2,3 +2,7 @@ Add 1+1
 Add 2+2
 Subtract 1-1
 Subtract 2-2
+Multiply 1*1
+Multiply 2*2
+Division 1/1
+Division 2/2
